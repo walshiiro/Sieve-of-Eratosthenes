@@ -13,7 +13,7 @@ int main() {
     {
         while(!a[i])
         i++;
-        for(int j=i;i<=x/i;i++)
+        for(int j=i;j<=x/i;j++)
             a[i*j]=false;
         i++;
 
